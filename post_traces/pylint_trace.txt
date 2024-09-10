@@ -1,6 +1,8 @@
 ************* Module rand
-hw2_rsc/rand.py:1:0: C0114: Missing module docstring (missing-module-docstring)
+hw2_rsc/rand.py:18:0: C0304: Final newline missing (missing-final-newline)
+hw2_rsc/rand.py:18:0: W0104: Statement seems to have no effect (pointless-statement)
+hw2_rsc/rand.py:18:0: E0602: Undefined variable 'bbb' (undefined-variable)
 
--------------------------------------------------------------------
-Your code has been rated at 9.81/10 (previous run: 10.00/10, -0.19)
+-----------------------------------
+Your code has been rated at 8.68/10
 
